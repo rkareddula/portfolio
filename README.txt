@@ -1,1 +1,1 @@
-Portfolio Website built with HTML, CSS and Sass
+Portfolio Website built with HTML, CSS, JavaScript and Sass
